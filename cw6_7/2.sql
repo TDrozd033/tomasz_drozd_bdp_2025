@@ -1,0 +1,2 @@
+ALTER TABLE drozd.intersects
+ADD COLUMN rid SERIAL PRIMARY KEY;
